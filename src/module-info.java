@@ -4,5 +4,6 @@
 /**
  * 
  */
-module tdd_java_handson {
+module money {
+	requires org.junit.jupiter.api;
 }
